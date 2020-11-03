@@ -1,0 +1,10 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.158",
+      "ext-mysqli": "*",
+      "ext-openssl": "*",
+      "ext-json": "*",
+        "aws/aws-sdk-php-resources": "^0.3.0",
+        "phpseclib/phpseclib": "^2.0"
+    }
+}
